@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.form > div{
+  margin-bottom: 30px;
+}
+.fare-card-container{
+  margin-right: 4.1%;
+}
+
+.fare-card{
+  background-color: #EEEEEE;
+  width: 300;
+  margin-bottom: 10px;
+}
+
+.fare-list-container{
+  display: block;
+}
+.from-to-fare{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.from-to{
+  display: flex;
+  font-size: 15px;
+  font-weight: bold;
+  width: 40%;
+  justify-content: space-between;
+}
+.fare-total{
+  display: flex;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+  justify-content: space-between;
+}
+.from-to >p > i > svg{
+background-color: white
+}
+
+

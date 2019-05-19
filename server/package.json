@@ -1,0 +1,26 @@
+{
+  "name": "trip-finder",
+  "version": "1.0.0",
+  "description": "Trip finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon start.js"
+  },
+  "keywords": [
+    "express",
+    "jest"
+  ],
+  "author": "Muhammad Suhail Amir",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/register": "^7.4.4"
+  }
+}
